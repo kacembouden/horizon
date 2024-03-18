@@ -1,7 +1,3 @@
-Here's a README template for your Angular Employee List component:
-
----
-
 # Employee List Component
 
 This Angular component is designed to display a list of employees. It includes functionalities for filtering, sorting, pagination, adding, and deleting employees.
@@ -48,7 +44,3 @@ This component requires the following Angular modules and dependencies:
 - The `EmployeeListComponent` includes functionalities for filtering, sorting, pagination, adding, and deleting employees.
 - It uses Angular Material components for styling and functionality.
 - Make sure to provide necessary backend services for fetching and managing employee data.
-
----
-
-Feel free to customize this README template to include more detailed instructions or additional information specific to your application or requirements.
